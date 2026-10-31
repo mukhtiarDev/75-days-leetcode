@@ -1,0 +1,677 @@
+﻿[
+    {
+        "id":  1,
+        "sequence":  "001",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "two-sum",
+        "path":  "easy/arrays/problem_001_two-sum.py",
+        "published":  false
+    },
+    {
+        "id":  2,
+        "sequence":  "002",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "best-time-to-buy-and-sell-stock",
+        "path":  "easy/arrays/problem_002_best-time-to-buy-and-sell-stock.py",
+        "published":  false
+    },
+    {
+        "id":  3,
+        "sequence":  "003",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "contains-duplicate",
+        "path":  "easy/arrays/problem_003_contains-duplicate.py",
+        "published":  false
+    },
+    {
+        "id":  4,
+        "sequence":  "004",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "maximum-subarray",
+        "path":  "easy/arrays/problem_004_maximum-subarray.py",
+        "published":  false
+    },
+    {
+        "id":  5,
+        "sequence":  "005",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "majority-element",
+        "path":  "easy/arrays/problem_005_majority-element.py",
+        "published":  false
+    },
+    {
+        "id":  6,
+        "sequence":  "006",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "missing-number",
+        "path":  "easy/arrays/problem_006_missing-number.py",
+        "published":  false
+    },
+    {
+        "id":  7,
+        "sequence":  "007",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "move-zeroes",
+        "path":  "easy/arrays/problem_007_move-zeroes.py",
+        "published":  false
+    },
+    {
+        "id":  8,
+        "sequence":  "008",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "remove-duplicates-from-sorted-array",
+        "path":  "easy/arrays/problem_008_remove-duplicates-from-sorted-array.py",
+        "published":  false
+    },
+    {
+        "id":  9,
+        "sequence":  "009",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "single-number",
+        "path":  "easy/arrays/problem_009_single-number.py",
+        "published":  false
+    },
+    {
+        "id":  10,
+        "sequence":  "010",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "plus-one",
+        "path":  "easy/arrays/problem_010_plus-one.py",
+        "published":  false
+    },
+    {
+        "id":  11,
+        "sequence":  "011",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "find-pivot-index",
+        "path":  "easy/arrays/problem_011_find-pivot-index.py",
+        "published":  false
+    },
+    {
+        "id":  12,
+        "sequence":  "012",
+        "category":  "easy",
+        "topic":  "arrays",
+        "slug":  "third-maximum-number",
+        "path":  "easy/arrays/problem_012_third-maximum-number.py",
+        "published":  false
+    },
+    {
+        "id":  13,
+        "sequence":  "013",
+        "category":  "easy",
+        "topic":  "strings",
+        "slug":  "valid-anagram",
+        "path":  "easy/strings/problem_013_valid-anagram.py",
+        "published":  false
+    },
+    {
+        "id":  14,
+        "sequence":  "014",
+        "category":  "easy",
+        "topic":  "strings",
+        "slug":  "valid-palindrome",
+        "path":  "easy/strings/problem_014_valid-palindrome.py",
+        "published":  false
+    },
+    {
+        "id":  15,
+        "sequence":  "015",
+        "category":  "easy",
+        "topic":  "strings",
+        "slug":  "longest-common-prefix",
+        "path":  "easy/strings/problem_015_longest-common-prefix.py",
+        "published":  false
+    },
+    {
+        "id":  16,
+        "sequence":  "016",
+        "category":  "easy",
+        "topic":  "strings",
+        "slug":  "reverse-string",
+        "path":  "easy/strings/problem_016_reverse-string.py",
+        "published":  false
+    },
+    {
+        "id":  17,
+        "sequence":  "017",
+        "category":  "easy",
+        "topic":  "strings",
+        "slug":  "first-unique-character-in-a-string",
+        "path":  "easy/strings/problem_017_first-unique-character-in-a-string.py",
+        "published":  false
+    },
+    {
+        "id":  18,
+        "sequence":  "018",
+        "category":  "easy",
+        "topic":  "strings",
+        "slug":  "ransom-note",
+        "path":  "easy/strings/problem_018_ransom-note.py",
+        "published":  false
+    },
+    {
+        "id":  19,
+        "sequence":  "019",
+        "category":  "easy",
+        "topic":  "strings",
+        "slug":  "is-subsequence",
+        "path":  "easy/strings/problem_019_is-subsequence.py",
+        "published":  false
+    },
+    {
+        "id":  20,
+        "sequence":  "020",
+        "category":  "easy",
+        "topic":  "strings",
+        "slug":  "roman-to-integer",
+        "path":  "easy/strings/problem_020_roman-to-integer.py",
+        "published":  false
+    },
+    {
+        "id":  21,
+        "sequence":  "021",
+        "category":  "easy",
+        "topic":  "strings",
+        "slug":  "find-the-index-of-the-first-occurrence-in-a-string",
+        "path":  "easy/strings/problem_021_find-the-index-of-the-first-occurrence-in-a-string.py",
+        "published":  false
+    },
+    {
+        "id":  22,
+        "sequence":  "022",
+        "category":  "easy",
+        "topic":  "hashmaps",
+        "slug":  "intersection-of-two-arrays",
+        "path":  "easy/hashmaps/problem_022_intersection-of-two-arrays.py",
+        "published":  false
+    },
+    {
+        "id":  23,
+        "sequence":  "023",
+        "category":  "easy",
+        "topic":  "hashmaps",
+        "slug":  "happy-number",
+        "path":  "easy/hashmaps/problem_023_happy-number.py",
+        "published":  false
+    },
+    {
+        "id":  24,
+        "sequence":  "024",
+        "category":  "easy",
+        "topic":  "hashmaps",
+        "slug":  "contains-duplicate-ii",
+        "path":  "easy/hashmaps/problem_024_contains-duplicate-ii.py",
+        "published":  false
+    },
+    {
+        "id":  25,
+        "sequence":  "025",
+        "category":  "easy",
+        "topic":  "hashmaps",
+        "slug":  "word-pattern",
+        "path":  "easy/hashmaps/problem_025_word-pattern.py",
+        "published":  false
+    },
+    {
+        "id":  26,
+        "sequence":  "026",
+        "category":  "easy",
+        "topic":  "two-pointers",
+        "slug":  "merge-sorted-array",
+        "path":  "easy/two-pointers/problem_026_merge-sorted-array.py",
+        "published":  false
+    },
+    {
+        "id":  27,
+        "sequence":  "027",
+        "category":  "easy",
+        "topic":  "two-pointers",
+        "slug":  "remove-element",
+        "path":  "easy/two-pointers/problem_027_remove-element.py",
+        "published":  false
+    },
+    {
+        "id":  28,
+        "sequence":  "028",
+        "category":  "easy",
+        "topic":  "two-pointers",
+        "slug":  "reverse-vowels-of-a-string",
+        "path":  "easy/two-pointers/problem_028_reverse-vowels-of-a-string.py",
+        "published":  false
+    },
+    {
+        "id":  29,
+        "sequence":  "029",
+        "category":  "easy",
+        "topic":  "two-pointers",
+        "slug":  "squares-of-a-sorted-array",
+        "path":  "easy/two-pointers/problem_029_squares-of-a-sorted-array.py",
+        "published":  false
+    },
+    {
+        "id":  30,
+        "sequence":  "030",
+        "category":  "easy",
+        "topic":  "sliding-window",
+        "slug":  "maximum-average-subarray-i",
+        "path":  "easy/sliding-window/problem_030_maximum-average-subarray-i.py",
+        "published":  false
+    },
+    {
+        "id":  31,
+        "sequence":  "031",
+        "category":  "easy",
+        "topic":  "stack-and-queue",
+        "slug":  "implement-stack-using-queues",
+        "path":  "easy/stack-and-queue/problem_031_implement-stack-using-queues.py",
+        "published":  false
+    },
+    {
+        "id":  32,
+        "sequence":  "032",
+        "category":  "easy",
+        "topic":  "stack-and-queue",
+        "slug":  "implement-queue-using-stacks",
+        "path":  "easy/stack-and-queue/problem_032_implement-queue-using-stacks.py",
+        "published":  false
+    },
+    {
+        "id":  33,
+        "sequence":  "033",
+        "category":  "easy",
+        "topic":  "stack-and-queue",
+        "slug":  "baseball-game",
+        "path":  "easy/stack-and-queue/problem_033_baseball-game.py",
+        "published":  false
+    },
+    {
+        "id":  34,
+        "sequence":  "034",
+        "category":  "easy",
+        "topic":  "sorting",
+        "slug":  "height-checker",
+        "path":  "easy/sorting/problem_034_height-checker.py",
+        "published":  false
+    },
+    {
+        "id":  35,
+        "sequence":  "035",
+        "category":  "easy",
+        "topic":  "sorting",
+        "slug":  "relative-sort-array",
+        "path":  "easy/sorting/problem_035_relative-sort-array.py",
+        "published":  false
+    },
+    {
+        "id":  36,
+        "sequence":  "036",
+        "category":  "easy",
+        "topic":  "binary-search",
+        "slug":  "binary-search",
+        "path":  "easy/binary-search/problem_036_binary-search.py",
+        "published":  false
+    },
+    {
+        "id":  37,
+        "sequence":  "037",
+        "category":  "easy",
+        "topic":  "binary-search",
+        "slug":  "search-insert-position",
+        "path":  "easy/binary-search/problem_037_search-insert-position.py",
+        "published":  false
+    },
+    {
+        "id":  38,
+        "sequence":  "038",
+        "category":  "easy",
+        "topic":  "binary-search",
+        "slug":  "guess-number-higher-or-lower",
+        "path":  "easy/binary-search/problem_038_guess-number-higher-or-lower.py",
+        "published":  false
+    },
+    {
+        "id":  39,
+        "sequence":  "039",
+        "category":  "easy",
+        "topic":  "binary-search",
+        "slug":  "sqrtx",
+        "path":  "easy/binary-search/problem_039_sqrtx.py",
+        "published":  false
+    },
+    {
+        "id":  40,
+        "sequence":  "040",
+        "category":  "easy",
+        "topic":  "prefix-sum",
+        "slug":  "running-sum-of-1d-array",
+        "path":  "easy/prefix-sum/problem_040_running-sum-of-1d-array.py",
+        "published":  false
+    },
+    {
+        "id":  41,
+        "sequence":  "041",
+        "category":  "easy",
+        "topic":  "prefix-sum",
+        "slug":  "range-sum-query-immutable",
+        "path":  "easy/prefix-sum/problem_041_range-sum-query-immutable.py",
+        "published":  false
+    },
+    {
+        "id":  42,
+        "sequence":  "042",
+        "category":  "easy",
+        "topic":  "linked-lists",
+        "slug":  "reverse-linked-list",
+        "path":  "easy/linked-lists/problem_042_reverse-linked-list.py",
+        "published":  false
+    },
+    {
+        "id":  43,
+        "sequence":  "043",
+        "category":  "easy",
+        "topic":  "linked-lists",
+        "slug":  "merge-two-sorted-lists",
+        "path":  "easy/linked-lists/problem_043_merge-two-sorted-lists.py",
+        "published":  false
+    },
+    {
+        "id":  44,
+        "sequence":  "044",
+        "category":  "easy",
+        "topic":  "linked-lists",
+        "slug":  "linked-list-cycle",
+        "path":  "easy/linked-lists/problem_044_linked-list-cycle.py",
+        "published":  false
+    },
+    {
+        "id":  45,
+        "sequence":  "045",
+        "category":  "easy",
+        "topic":  "linked-lists",
+        "slug":  "middle-of-the-linked-list",
+        "path":  "easy/linked-lists/problem_045_middle-of-the-linked-list.py",
+        "published":  false
+    },
+    {
+        "id":  46,
+        "sequence":  "046",
+        "category":  "easy",
+        "topic":  "linked-lists",
+        "slug":  "palindrome-linked-list",
+        "path":  "easy/linked-lists/problem_046_palindrome-linked-list.py",
+        "published":  false
+    },
+    {
+        "id":  47,
+        "sequence":  "047",
+        "category":  "easy",
+        "topic":  "trees",
+        "slug":  "maximum-depth-of-binary-tree",
+        "path":  "easy/trees/problem_047_maximum-depth-of-binary-tree.py",
+        "published":  false
+    },
+    {
+        "id":  48,
+        "sequence":  "048",
+        "category":  "easy",
+        "topic":  "trees",
+        "slug":  "invert-binary-tree",
+        "path":  "easy/trees/problem_048_invert-binary-tree.py",
+        "published":  false
+    },
+    {
+        "id":  49,
+        "sequence":  "049",
+        "category":  "easy",
+        "topic":  "trees",
+        "slug":  "same-tree",
+        "path":  "easy/trees/problem_049_same-tree.py",
+        "published":  false
+    },
+    {
+        "id":  50,
+        "sequence":  "050",
+        "category":  "easy",
+        "topic":  "trees",
+        "slug":  "symmetric-tree",
+        "path":  "easy/trees/problem_050_symmetric-tree.py",
+        "published":  false
+    },
+    {
+        "id":  51,
+        "sequence":  "051",
+        "category":  "easy",
+        "topic":  "recursion",
+        "slug":  "fibonacci-number",
+        "path":  "easy/recursion/problem_051_fibonacci-number.py",
+        "published":  false
+    },
+    {
+        "id":  52,
+        "sequence":  "052",
+        "category":  "easy",
+        "topic":  "recursion",
+        "slug":  "power-of-two",
+        "path":  "easy/recursion/problem_052_power-of-two.py",
+        "published":  false
+    },
+    {
+        "id":  53,
+        "sequence":  "053",
+        "category":  "easy",
+        "topic":  "greedy",
+        "slug":  "assign-cookies",
+        "path":  "easy/greedy/problem_053_assign-cookies.py",
+        "published":  false
+    },
+    {
+        "id":  54,
+        "sequence":  "054",
+        "category":  "easy",
+        "topic":  "greedy",
+        "slug":  "can-place-flowers",
+        "path":  "easy/greedy/problem_054_can-place-flowers.py",
+        "published":  false
+    },
+    {
+        "id":  55,
+        "sequence":  "055",
+        "category":  "easy",
+        "topic":  "greedy",
+        "slug":  "maximum-product-of-three-numbers",
+        "path":  "easy/greedy/problem_055_maximum-product-of-three-numbers.py",
+        "published":  false
+    },
+    {
+        "id":  56,
+        "sequence":  "056",
+        "category":  "medium",
+        "topic":  "arrays-and-hashmaps",
+        "slug":  "group-anagrams",
+        "path":  "medium/arrays-and-hashmaps/problem_056_group-anagrams.py",
+        "published":  false
+    },
+    {
+        "id":  57,
+        "sequence":  "057",
+        "category":  "medium",
+        "topic":  "arrays-and-hashmaps",
+        "slug":  "top-k-frequent-elements",
+        "path":  "medium/arrays-and-hashmaps/problem_057_top-k-frequent-elements.py",
+        "published":  false
+    },
+    {
+        "id":  58,
+        "sequence":  "058",
+        "category":  "medium",
+        "topic":  "arrays-and-hashmaps",
+        "slug":  "longest-consecutive-sequence",
+        "path":  "medium/arrays-and-hashmaps/problem_058_longest-consecutive-sequence.py",
+        "published":  false
+    },
+    {
+        "id":  59,
+        "sequence":  "059",
+        "category":  "medium",
+        "topic":  "arrays-and-hashmaps",
+        "slug":  "product-of-array-except-self",
+        "path":  "medium/arrays-and-hashmaps/problem_059_product-of-array-except-self.py",
+        "published":  false
+    },
+    {
+        "id":  60,
+        "sequence":  "060",
+        "category":  "medium",
+        "topic":  "arrays-and-hashmaps",
+        "slug":  "subarray-sum-equals-k",
+        "path":  "medium/arrays-and-hashmaps/problem_060_subarray-sum-equals-k.py",
+        "published":  false
+    },
+    {
+        "id":  61,
+        "sequence":  "061",
+        "category":  "medium",
+        "topic":  "two-pointers",
+        "slug":  "three-sum",
+        "path":  "medium/two-pointers/problem_061_three-sum.py",
+        "published":  false
+    },
+    {
+        "id":  62,
+        "sequence":  "062",
+        "category":  "medium",
+        "topic":  "two-pointers",
+        "slug":  "container-with-most-water",
+        "path":  "medium/two-pointers/problem_062_container-with-most-water.py",
+        "published":  false
+    },
+    {
+        "id":  63,
+        "sequence":  "063",
+        "category":  "medium",
+        "topic":  "sliding-window",
+        "slug":  "longest-substring-without-repeating-characters",
+        "path":  "medium/sliding-window/problem_063_longest-substring-without-repeating-characters.py",
+        "published":  false
+    },
+    {
+        "id":  64,
+        "sequence":  "064",
+        "category":  "medium",
+        "topic":  "sliding-window",
+        "slug":  "longest-repeating-character-replacement",
+        "path":  "medium/sliding-window/problem_064_longest-repeating-character-replacement.py",
+        "published":  false
+    },
+    {
+        "id":  65,
+        "sequence":  "065",
+        "category":  "medium",
+        "topic":  "sliding-window",
+        "slug":  "permutation-in-string",
+        "path":  "medium/sliding-window/problem_065_permutation-in-string.py",
+        "published":  false
+    },
+    {
+        "id":  66,
+        "sequence":  "066",
+        "category":  "medium",
+        "topic":  "stack-and-queue",
+        "slug":  "daily-temperatures",
+        "path":  "medium/stack-and-queue/problem_066_daily-temperatures.py",
+        "published":  false
+    },
+    {
+        "id":  67,
+        "sequence":  "067",
+        "category":  "medium",
+        "topic":  "stack-and-queue",
+        "slug":  "evaluate-reverse-polish-notation",
+        "path":  "medium/stack-and-queue/problem_067_evaluate-reverse-polish-notation.py",
+        "published":  false
+    },
+    {
+        "id":  68,
+        "sequence":  "068",
+        "category":  "medium",
+        "topic":  "binary-search",
+        "slug":  "search-in-rotated-sorted-array",
+        "path":  "medium/binary-search/problem_068_search-in-rotated-sorted-array.py",
+        "published":  false
+    },
+    {
+        "id":  69,
+        "sequence":  "069",
+        "category":  "medium",
+        "topic":  "binary-search",
+        "slug":  "find-minimum-in-rotated-sorted-array",
+        "path":  "medium/binary-search/problem_069_find-minimum-in-rotated-sorted-array.py",
+        "published":  false
+    },
+    {
+        "id":  70,
+        "sequence":  "070",
+        "category":  "medium",
+        "topic":  "binary-search",
+        "slug":  "koko-eating-bananas",
+        "path":  "medium/binary-search/problem_070_koko-eating-bananas.py",
+        "published":  false
+    },
+    {
+        "id":  71,
+        "sequence":  "071",
+        "category":  "medium",
+        "topic":  "linked-lists",
+        "slug":  "add-two-numbers",
+        "path":  "medium/linked-lists/problem_071_add-two-numbers.py",
+        "published":  false
+    },
+    {
+        "id":  72,
+        "sequence":  "072",
+        "category":  "medium",
+        "topic":  "linked-lists",
+        "slug":  "remove-nth-node-from-end-of-list",
+        "path":  "medium/linked-lists/problem_072_remove-nth-node-from-end-of-list.py",
+        "published":  false
+    },
+    {
+        "id":  73,
+        "sequence":  "073",
+        "category":  "medium",
+        "topic":  "trees-and-graphs",
+        "slug":  "binary-tree-level-order-traversal",
+        "path":  "medium/trees-and-graphs/problem_073_binary-tree-level-order-traversal.py",
+        "published":  false
+    },
+    {
+        "id":  74,
+        "sequence":  "074",
+        "category":  "medium",
+        "topic":  "trees-and-graphs",
+        "slug":  "number-of-islands",
+        "path":  "medium/trees-and-graphs/problem_074_number-of-islands.py",
+        "published":  false
+    },
+    {
+        "id":  75,
+        "sequence":  "075",
+        "category":  "medium",
+        "topic":  "intervals-and-greedy",
+        "slug":  "merge-intervals",
+        "path":  "medium/intervals-and-greedy/problem_075_merge-intervals.py",
+        "published":  false
+    }
+]
