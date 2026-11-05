@@ -1,7 +1,8 @@
 {
   "published_files": [
     "easy/arrays/problem_001_two-sum.py",
-    "easy/arrays/problem_002_best-time-to-buy-and-sell-stock.py"
+    "easy/arrays/problem_002_best-time-to-buy-and-sell-stock.py",
+    "easy/arrays/problem_003_contains-duplicate.py"
   ],
-  "last_published_date": "2026-11-02T03:17:13.828534+00:00"
+  "last_published_date": "2026-11-05T04:08:55.905485+00:00"
 }
